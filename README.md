@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Nyl
 #### I am Web3, video game, blockchain developper
-![I am Web3, video game, blockchain developper](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 ![Group_2blender](https://user-images.githubusercontent.com/95429032/181880309-c3655b73-58ce-4fb9-bbe5-c08e1cdf1d44.jpg)
 
 I'm making web3 website & immersive experiences
